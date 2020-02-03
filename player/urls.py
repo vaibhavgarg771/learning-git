@@ -8,5 +8,6 @@ urlpatterns = [
     re_path(r'logout$', LogoutView.as_view(), name = 'player_logout'),
     re_path(r'home/$', home, name = 'player_home'),
     #anyRandom stuff
+    # Some more random stuff
 ]
 
