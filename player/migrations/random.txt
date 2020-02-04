@@ -1,1 +1,0 @@
-adding a nested file to check nested gitignore
